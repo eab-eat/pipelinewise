@@ -1,1 +1,1 @@
-pipelinewise-target-snowflake==2.3.0
+pipelinewise-target-snowflake @ https://github.com/eab-eat/pipelinewise-target-snowflake@master
