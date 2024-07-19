@@ -1,1 +1,1 @@
-pipelinewise-target-snowflake @ https://github.com/eab-eat/pipelinewise-target-snowflake@master
+pipelinewise-target-snowflake @ https://github.com/eab-eat/pipelinewise-target-snowflake.git@master
